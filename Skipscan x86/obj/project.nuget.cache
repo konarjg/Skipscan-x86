@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JbeZq/qZn26OBCeu2cIXqgwiGovXjEj2Wy/w4Vqu3/nET7sB8ifWM60g0yNQdzUfvnitE1ngwOyoNgUrvGh8lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\konis\\Desktop\\niduc\\Skipscan x86\\Skipscan x86.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konis\\.nuget\\packages\\iced\\1.21.0\\iced.1.21.0.nupkg.sha512",
+    "C:\\Users\\konis\\.nuget\\packages\\scottplot\\5.0.22\\scottplot.5.0.22.nupkg.sha512",
+    "C:\\Users\\konis\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\konis\\.nuget\\packages\\skiasharp.nativeassets.linux.nodependencies\\2.88.7\\skiasharp.nativeassets.linux.nodependencies.2.88.7.nupkg.sha512",
+    "C:\\Users\\konis\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\konis\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512"
+  ],
+  "logs": []
+}

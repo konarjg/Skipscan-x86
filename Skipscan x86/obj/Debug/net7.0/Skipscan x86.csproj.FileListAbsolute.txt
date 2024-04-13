@@ -1,0 +1,27 @@
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\Skipscan x86.exe
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\Skipscan x86.deps.json
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\Skipscan x86.runtimeconfig.json
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\Skipscan x86.dll
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\Skipscan x86.pdb
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\Skipscan x86.csproj.AssemblyReference.cache
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\Skipscan x86.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\Skipscan x86.AssemblyInfoInputs.cache
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\Skipscan x86.AssemblyInfo.cs
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\Skipscan x86.csproj.CoreCompileInputs.cache
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\Skipscan x86.dll
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\refint\Skipscan x86.dll
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\Skipscan x86.pdb
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\Skipscan x86.genruntimeconfig.cache
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\ref\Skipscan x86.dll
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\ScottPlot.dll
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\konis\Desktop\niduc\Skipscan x86\obj\Debug\net7.0\Skipscan x86.csproj.CopyComplete
+C:\Users\konis\Desktop\niduc\Skipscan x86\bin\Debug\net7.0\Iced.dll

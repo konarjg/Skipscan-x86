@@ -1,0 +1,7 @@
+b _start
+r
+si
+x/1ig $eax
+s
+q
+
