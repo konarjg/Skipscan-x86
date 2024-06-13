@@ -105,7 +105,8 @@ while (true)
     Console.WriteLine("[1] Depth First Search Test");
     Console.WriteLine("[2] Lexicographic generated test");
     Console.WriteLine("[3] Randomly generated test");
-    Console.WriteLine("[4] Exit");
+    Console.WriteLine("[4] Generate reduced test program (35.54% reduction compared to DFS)");
+    Console.WriteLine("[5] Exit");
 
     var key = Console.ReadKey().Key;
 
@@ -136,6 +137,15 @@ while (true)
             Console.WriteLine("The test is being performed, wait for the results...");
             TestRandom("results.txt");
 
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
+            break;
+
+        case ConsoleKey.D4:
+            Console.Clear();
+            Console.WriteLine("The test program is being generated, wait for the results!");
+
+            TestProgramGeneration.GenerateTestProgram();
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
             break;
